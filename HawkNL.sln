@@ -8,24 +8,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HawkNL_static", "HawkNL_sta
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		vs2019_Debug|x64 = vs2019_Debug|x64
-		vs2019_Debug|x86 = vs2019_Debug|x86
-		vs2019_Release|x64 = vs2019_Release|x64
-		vs2019_Release|x86 = vs2019_Release|x86
 		vs2022_Debug|x64 = vs2022_Debug|x64
 		vs2022_Debug|x86 = vs2022_Debug|x86
 		vs2022_Release|x64 = vs2022_Release|x64
 		vs2022_Release|x86 = vs2022_Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Debug|x86.ActiveCfg = vs2019_Debug|Win32
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Debug|x86.Build.0 = vs2019_Debug|Win32
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Release|x86.ActiveCfg = vs2019_Release|Win32
-		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2019_Release|x86.Build.0 = vs2019_Release|Win32
 		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
 		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
 		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2022_Debug|x86.ActiveCfg = vs2022_Debug|Win32
@@ -34,14 +22,6 @@ Global
 		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
 		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2022_Release|x86.ActiveCfg = vs2022_Release|Win32
 		{8D98A7AC-8830-C204-34FE-C068D69D7FD4}.vs2022_Release|x86.Build.0 = vs2022_Release|Win32
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Debug|x86.ActiveCfg = vs2019_Debug|Win32
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Debug|x86.Build.0 = vs2019_Debug|Win32
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Release|x86.ActiveCfg = vs2019_Release|Win32
-		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2019_Release|x86.Build.0 = vs2019_Release|Win32
 		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
 		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
 		{A8C9C3D5-E9A2-04E9-3B84-736C52721F4B}.vs2022_Debug|x86.ActiveCfg = vs2022_Debug|Win32
